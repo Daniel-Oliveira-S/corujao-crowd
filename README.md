@@ -2,11 +2,11 @@
 <div align="center">
 <a href='#🖥️-tecnologias'>Tecnologias</a>
 |
-<a href='#-'>Projeto</a>
+<a href='#🚀-projeto'>Projeto</a>
 |
-<a href='#-'>Layout</a>
+<a href='#⚡-layout'>Layout</a>
 |
-<a href='#-'>Licença</a>
+<a href='#memo-licença'>Licença</a>
 </div>
 
 ----
