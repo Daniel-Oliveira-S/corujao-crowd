@@ -150,7 +150,7 @@ export function App() {
             país
           </h1>
           <h2>
-            Exercícios práticos e feedback detalhado para reforçar o seu
+            Exercícios práticos e feedbacks detalhados para reforçar o seu
             aprendizado rumo à universidade.
           </h2>
           <div id="button">
