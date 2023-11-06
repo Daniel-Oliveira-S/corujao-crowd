@@ -150,8 +150,8 @@ export function App() {
             país
           </h1>
           <h2>
-            Aprenda redação com quem aprova nos vestibulares mais concorridos do
-            país
+            Exercícios práticos e feedback detalhado para reforçar o seu
+            aprendizado rumo à universidade.
           </h2>
           <div id="button">
             <OrangeHover href="#form" id="main-button">
