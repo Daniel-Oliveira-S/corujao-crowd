@@ -37,7 +37,7 @@ export function SliderMob() {
         </div>
         <div className="slide">
           <img src={avatar2} alt="" />
-          <h1>Dora Lobo - Colégio Mobile</h1>
+          <h1>Dora Lobo - Dante Alighieri</h1>
           <p>
             Muito obrigado, Corujão! Você é demais! Te garanto que você foi
             muito essencial para essa aprovação. Pode esperar mais uma Coruja
@@ -85,7 +85,7 @@ export function SliderDesk() {
       </div>
       <div className="slide">
         <img src={avatar2} alt="" />
-        <h1>Dora lobo - Colégio Mobile</h1>
+        <h1>Dora lobo - Dante Alighieri</h1>
         <span
           style={{
             color: "#7c2399",
